@@ -253,6 +253,48 @@ python test_gemini_system.py
 - 🧪 **Testing**: Full test coverage
 - 🐳 **DevOps**: Docker containerization
 
+## 👥 Contributors
+
+This project was developed by a talented team for the Bajaj Hackathon:
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ugopikadas">
+        <img src="https://github.com/ugopikadas.png" width="100px;" alt="Ugopi Kadas"/>
+        <br />
+        <sub><b>Ugopi Kadas</b></sub>
+      </a>
+      <br />
+      <sub>Project Lead & Backend Development</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/gopikaanilkumar51">
+        <img src="https://github.com/gopikaanilkumar51.png" width="100px;" alt="Gopika Anil Kumar"/>
+        <br />
+        <sub><b>Gopika Anil Kumar</b></sub>
+      </a>
+      <br />
+      <sub>AI/ML Integration & Frontend</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Vaishnavibeena">
+        <img src="https://github.com/Vaishnavibeena.png" width="100px;" alt="Vaishnavi Beena"/>
+        <br />
+        <sub><b>Vaishnavi Beena</b></sub>
+      </a>
+      <br />
+      <sub>Document Processing & Testing</sub>
+    </td>
+  </tr>
+</table>
+
+### 🌟 Team Contributions
+
+- **Ugopi Kadas** - System architecture, backend development, API design, and deployment
+- **Gopika Anil Kumar** - AI model integration, frontend development, and user experience design
+- **Vaishnavi Beena** - Document processing algorithms, testing framework, and quality assurance
+
 ## 🤝 Contributing
 
 We welcome contributions to improve the platform:
@@ -286,10 +328,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🏆 Bajaj Hackathon Submission
 
-**Team**: [Your Team Name]  
-**Category**: AI/ML Innovation  
-**Submission Date**: [Current Date]  
-**Demo URL**: http://localhost:8000  
+**Team**: AI Innovators
+**Team Members**:
+- [Ugopi Kadas](https://github.com/ugopikadas) - Project Lead & Backend Development
+- [Gopika Anil Kumar](https://github.com/gopikaanilkumar51) - AI/ML Integration & Frontend
+- [Vaishnavi Beena](https://github.com/Vaishnavibeena) - Document Processing & Testing
+
+**Category**: AI/ML Innovation
+**Submission Date**: December 2024
+**Demo URL**: http://localhost:8000
+**Repository**: https://github.com/ugopikadas/LLM-PLATFORM-FOR-BAJAJ-HACKATHON
 
 **Built with ❤️ for Bajaj's Digital Transformation Initiative**
 
