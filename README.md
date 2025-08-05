@@ -261,9 +261,9 @@ This project was developed by **Team GUGAV** for the Bajaj Hackathon:
   <tr>
     <td align="center">
       <a href="https://github.com/ugopikadas">
-        <img src="https://github.com/ugopikadas.png" width="100px;" alt="Ugopi Kadas"/>
+        <img src="https://github.com/ugopikadas.png" width="100px;" alt="U Gopika Das"/>
         <br />
-        <sub><b>Ugopi Kadas</b></sub>
+        <sub><b>U Gopika Das</b></sub>
       </a>
       <br />
       <sub>Project Lead & Backend Development</sub>
@@ -291,7 +291,7 @@ This project was developed by **Team GUGAV** for the Bajaj Hackathon:
 
 ### 🌟 Team GUGAV Contributions
 
-- **Ugopi Kadas** - System architecture, backend development, API design, and deployment
+- **U Gopika Das** - System architecture, backend development, API design, and deployment
 - **Gopika Anil Kumar** - AI model integration, frontend development, and user experience design
 - **Vaishnavi Beena** - Document processing algorithms, testing framework, and quality assurance
 
@@ -332,7 +332,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Team Name**: GUGAV
 **Team Members**:
-- [Ugopi Kadas](https://github.com/ugopikadas) - Project Lead & Backend Development
+- [U Gopika Das](https://github.com/ugopikadas) - Project Lead & Backend Development
 - [Gopika Anil Kumar](https://github.com/gopikaanilkumar51) - AI/ML Integration & Frontend
 - [Vaishnavi Beena](https://github.com/Vaishnavibeena) - Document Processing & Testing
 
