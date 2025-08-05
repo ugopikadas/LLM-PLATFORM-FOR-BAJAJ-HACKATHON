@@ -255,7 +255,7 @@ python test_gemini_system.py
 
 ## 👥 Contributors
 
-This project was developed by a talented team for the Bajaj Hackathon:
+This project was developed by **Team GUGAV** for the Bajaj Hackathon:
 
 <table>
   <tr>
@@ -289,11 +289,13 @@ This project was developed by a talented team for the Bajaj Hackathon:
   </tr>
 </table>
 
-### 🌟 Team Contributions
+### 🌟 Team GUGAV Contributions
 
 - **Ugopi Kadas** - System architecture, backend development, API design, and deployment
 - **Gopika Anil Kumar** - AI model integration, frontend development, and user experience design
 - **Vaishnavi Beena** - Document processing algorithms, testing framework, and quality assurance
+
+*Team GUGAV represents the combined expertise in AI, development, and innovation for Bajaj's digital transformation.*
 
 ## 🤝 Contributing
 
@@ -328,14 +330,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🏆 Bajaj Hackathon Submission
 
-**Team**: AI Innovators
+**Team Name**: GUGAV
 **Team Members**:
 - [Ugopi Kadas](https://github.com/ugopikadas) - Project Lead & Backend Development
 - [Gopika Anil Kumar](https://github.com/gopikaanilkumar51) - AI/ML Integration & Frontend
 - [Vaishnavi Beena](https://github.com/Vaishnavibeena) - Document Processing & Testing
 
 **Category**: AI/ML Innovation
-**Submission Date**: December 2024
+**Submission Date**: December 28, 2024
+**Submission Time**: 11:45 PM IST
 **Demo URL**: http://localhost:8000
 **Repository**: https://github.com/ugopikadas/LLM-PLATFORM-FOR-BAJAJ-HACKATHON
 
