@@ -1,0 +1,48 @@
+# Core LLM and AI libraries
+google-generativeai==0.3.2
+openai==1.12.0  # Keep as fallback option
+langchain==0.1.10
+langchain-community==0.0.25
+
+# Vector database and embeddings
+chromadb==0.4.22
+sentence-transformers==2.3.1
+faiss-cpu==1.7.4
+
+# Document processing
+PyPDF2==3.0.1
+python-docx==1.1.0
+python-pptx==0.6.23
+python-multipart==0.0.6  # For file uploads
+pypdf==3.17.4  # Better PDF processing
+openpyxl==3.1.2  # Excel files
+# email parsing is built into Python standard library
+beautifulsoup4==4.12.3
+
+# NLP and text processing
+spacy==3.7.2
+nltk==3.8.1
+transformers==4.37.2
+
+# Web framework and API
+fastapi==0.109.2
+uvicorn==0.27.1
+pydantic==2.6.1
+python-multipart==0.0.9
+
+# Database
+sqlalchemy==2.0.25
+# sqlite3 is built into Python standard library
+
+# Utilities
+python-dotenv==1.0.1
+requests==2.31.0
+numpy==1.26.4
+pandas==2.2.0
+typing-extensions==4.9.0
+
+# Development and testing
+pytest==8.0.0
+pytest-asyncio==0.23.5
+black==24.1.1
+flake8==7.0.0
